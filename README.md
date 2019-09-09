@@ -47,6 +47,11 @@ https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</b></p>
 <p>2.1.1. Monk and Welcome problem </p>
 <p>2.1.1. Modify Sequence problem </p>
 
+<p><b>3.Algorithms</b></p>
+<p><b>3.1. Linear Search  1D </b></p>
+
+<p>3.1.1. Monk Takes a Walk problem </p>
+ 
 
 </html>
 </html>
