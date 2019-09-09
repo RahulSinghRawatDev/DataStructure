@@ -37,6 +37,9 @@ https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</b></p>
 <p>1.1.27. Cipher problem </p>
 <p>1.1.28. Magical Word problem </p>
 
+<p><b>1.3. Basics of Implementation </b></p>
+<p>1.3.1. Little Jhool and psychic powers problem </p>
+
 
 <p><b>2.Data Structures</b></p>
 <p><b>2.1.  1D </b></p>
