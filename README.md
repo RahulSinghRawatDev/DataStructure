@@ -1,7 +1,7 @@
 # DataStructure
 </html>
 <h2> Competitive Coding Programs from HackerEarth with java</h2>
-<p> Checkout hackerEarth Branch for hackerEarth competitive programs <.p>
+<p> Checkout hackerEarth Branch for hackerEarth competitive programs </p>
 <p> Command to clone it : <b>
 <p>https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</b></p>
 <h2> Programs included in this branch </h2>
