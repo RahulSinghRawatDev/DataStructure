@@ -13,7 +13,7 @@
 <b>2. Competitive Coding Programs from HackerEarth .</b>
 
 <p> Checkout 'hackerEarth' branch for all competitive coding exercises in HackerEarth .</p>
-<p> Command to clone branch .</p>
+<p> Command to clone 'hackerEarth' branch .</p>
 <p> https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</p>
 
 <h3>Programs included in this Repository 'master' branch .</h3>
