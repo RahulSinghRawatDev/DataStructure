@@ -1,4 +1,5 @@
-# DataStructure with Java (HackerEarth)
+# DataStructure with Java (HackerEarth Problems)
+
 </html>
 <h2> Competitive coding Programs from HackerEarth with java</h2>
 <p> Checkout 'hackerEarth' Branch for hackerEarth competitive programs </p>
