@@ -2,7 +2,7 @@
 </html>
 <h1> Competitive Coding Programs from HackerEarth with java</h1>
 <p> Checkout hackerEarth Branch for hackerEarth competitive programs <p>
-<p> Command to do it : <b>
+<p> Command to clone it : <b>
 https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</b></p>
 <h2> Programs included in this branch </h2>
 <p><b>1. Basic Programming</b></p>
