@@ -6,7 +6,7 @@
 
 
 <p> Checkout 'master' branch for Data Structure and Algorthm Programs .</p>
-<p> Command to clone master branch .</p>
+<p> Command to clone 'master' branch .</p>
 <p> https://github.com/RahulSinghRawatDev/DataStructure.git</p>
 
 
