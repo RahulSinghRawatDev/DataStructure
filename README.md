@@ -1,11 +1,11 @@
 # DataStructure
 </html>
-<h1>Competitive Coding Programs from HackerEarth with java</h1>
+<h1> Competitive Coding Programs from HackerEarth with java</h1>
 <p> Checkout hackerEarth Branch for hackerEarth competitive programs <p>
 <p> Command to do it : <b>
 https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</b></p>
-<h2>Programs included in this branch </h2>
-<p><b>1.Basic Programming</b></p>
+<h2> Programs included in this branch </h2>
+<p><b>1. Basic Programming</b></p>
 <p><b>1.1. Basic of Basic of Input-Output </b></p>
 
 <p>1.1.1. Prime Number problem </p>
@@ -41,18 +41,17 @@ https://github.com/RahulSinghRawatDev/DataStructure.git -b hackerEarth</b></p>
 <p>1.3.1. Little Jhool and psychic powers problem </p>
 
 
-<p><b>2.Data Structures</b></p>
-<p><b>2.1.  1D </b></p>
+<p><b>2. Data Structures</b></p>
+<p><b>2.1. 1D </b></p>
 
 <p>2.1.1. Monk and Welcome problem </p>
 <p>2.1.1. Modify Sequence problem </p>
 
-<p><b>3.Algorithms</b></p>
+<p><b>3. Algorithms</b></p>
 <p><b>3.1. Linear Search  1D </b></p>
 
 <p>3.1.1. Monk Takes a Walk problem </p>
  
 
-</html>
 </html>
 
