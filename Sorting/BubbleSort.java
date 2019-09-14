@@ -1,5 +1,10 @@
 package HackerEarth;
 
+/************************************************************************************************************
+* It checks the adjacent value and move the highest value in the last position.
+* As Array contains highest value in the last after first iteration so we keep on decreasing the last value for the iteration. 
+************************************************************************************************************/
+
 public class BubbleSort {
 
 	public static void main(String args[]) {
