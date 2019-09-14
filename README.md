@@ -19,3 +19,4 @@
 <h3> Programs included in this Repository 'master' branch .</h3>
 <b> 1. Sorting</b>
 <p> 1.1 Bubble Sort Program </p>
+<p> 1.2 Selection Sort Program </p>
