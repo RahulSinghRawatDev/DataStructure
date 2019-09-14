@@ -1,5 +1,10 @@
 package HackerEarth;
 
+/*********************************************Selection Sort***************************************************************
+* It selects the minimum value and swap it in the front of an array.
+* As Array contains Minimum value in the front positions so we keep on increasing the first value for the iteration. 
+************************************************************************************************************/
+
 public class SelectionSort {
 
 	public static void main(String args[]) {
